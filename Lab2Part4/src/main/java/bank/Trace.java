@@ -11,8 +11,8 @@ import org.aspectj.lang.annotation.Before;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.util.StopWatch;
 
-@Configuration
 @Aspect
+@Configuration
 public class Trace {
     Logger logger = new Logger();
 

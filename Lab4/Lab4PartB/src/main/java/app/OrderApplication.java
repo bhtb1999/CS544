@@ -34,29 +34,29 @@ public class OrderApplication implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         Product product = new Product(1, "Hibernate 3", "Good book on Hibernate", 35.5);
-        productRepository.save(product);
+//        productRepository.save(product);
 //		product.setName("Hibernate 3");
 //		product.setDescription("Good book on Hibernate");
 //		product.setPrice(35.50);
         OrderLine ol1 = new OrderLine(2, product);
-        orderLineRepository.save(ol1);
+//        orderLineRepository.save(ol1);
 
 //		Product product2 = new Product();
         Product product2 = new Product(2, "Spring Boot", "Good book on Spring", 12.96);
-        productRepository.save(product2);
+//        productRepository.save(product2);
         //		product2.setName("The best of Queen");
 //		product2.setDescription("Album from 1995");
 //		product2.setPrice(12.98);
         OrderLine ol2 = new OrderLine(4, product2);
-        orderLineRepository.save(ol2);
+//        orderLineRepository.save(ol2);
         Order o1 = new Order("234743", "12/10/06", "open");
-        orderRepository.save(o1);
+//        orderRepository.save(o1);
         o1.addOrderLine(ol1);
         o1.addOrderLine(ol2);
         Address address = new Address("Mainstreet 1", "New york", "43221");
-        addressRepository.save(address);
+//        addressRepository.save(address);
         Customer c1 = new Customer("Frank", "Brown", address);
-        customerRepository.save(c1);
+//        customerRepository.save(c1);
         c1.addOrder(o1);
         o1.setCustomer(c1);
 

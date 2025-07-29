@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BankApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab2Part4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab2PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab2PartB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab4/Lab4PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab4/Lab4PartB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab5/Lab5PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab5/Lab5PartB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab5/Lab5PartC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab6/JpaOptimization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab6/Lab6PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab6/Lab6PartB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab7/Lab7PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3PartA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3PartB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SprigJPACustomer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SpringBootJDBCCustomer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SpringBootJDBCCustomerWithCreditCard/src/main/java" charset="UTF-8" />
+  </component>
+</project>

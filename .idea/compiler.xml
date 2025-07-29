@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exercise9" />
+        <module name="Lab1PartB (2)" />
+        <module name="Lab6PartB" />
+        <module name="Exercise9 (2)" />
+        <module name="Lab7PartA" />
+        <module name="Lab2Part4" />
+        <module name="Lab1PartB" />
+        <module name="Lab1PartC" />
+        <module name="Lab1PartD" />
+        <module name="JpaOptimization" />
+        <module name="Lab1PartE" />
+        <module name="SpringBootJDBC (1)" />
+        <module name="Lab4PartB" />
+        <module name="Lab5PartC" />
+        <module name="Lab1PartB (1)" />
+        <module name="Lab2PartA" />
+        <module name="Lab2PartB" />
+        <module name="Lesson3JDBC" />
+        <module name="Lab5PartB" />
+        <module name="Lab5PartA" />
+        <module name="Exercise9 (1)" />
+        <module name="Lab2Part4 (1)" />
+        <module name="SpringBootJDBC" />
+        <module name="Lab6PartB (1)" />
+        <module name="SpringBootJDBC (2)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Exercise9" options="-parameters" />
+      <module name="Exercise9 (1)" options="-parameters" />
+      <module name="Exercise9 (2)" options="-parameters" />
+      <module name="JpaOptimization" options="-parameters" />
+      <module name="Lab2Part4" options="-parameters" />
+      <module name="Lab2Part4 (1)" options="-parameters" />
+      <module name="Lab2PartA" options="-parameters" />
+      <module name="Lab2PartB" options="-parameters" />
+      <module name="Lab4PartB" options="-parameters" />
+      <module name="Lab5PartA" options="-parameters" />
+      <module name="Lab5PartB" options="-parameters" />
+      <module name="Lab5PartC" options="-parameters" />
+      <module name="Lab6PartB" options="-parameters" />
+      <module name="Lab6PartB (1)" options="-parameters" />
+      <module name="Lab7PartA" options="-parameters" />
+      <module name="SpringBootJDBC" options="-parameters" />
+      <module name="SpringBootJDBC (1)" options="-parameters" />
+      <module name="SpringBootJDBC (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

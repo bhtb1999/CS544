@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/out/production/EA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab4/Lab4PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab4/Lab4PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5/Lab5PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5/Lab5PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5/Lab5PartC/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab6/Lab6PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab6/Lab6PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab6/JpaOptimization/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab7/Lab7PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1PartC/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1PartD/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1PartE/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2Part4/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/BankApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SprigJPACustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SpringBootJDBCCustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson+3+demo+code-1/Lesson3SpringBootJDBCCustomerWithCreditCard/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -3,7 +3,7 @@ package customers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service("customerDAO")
+@Service
 public class CustomerDAO implements ICustomerDAO{
 	private ILogger logger;
 	@Autowired

@@ -3,7 +3,7 @@ package customers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service("emailSender")
+@Service
 public class EmailSender implements IEmailSender {
 	String outgoingMailServer = "smtp.acme.com";
 	private ILogger logger;

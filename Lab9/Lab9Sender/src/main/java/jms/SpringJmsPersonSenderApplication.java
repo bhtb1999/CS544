@@ -43,15 +43,15 @@ public class SpringJmsPersonSenderApplication implements CommandLineRunner {
 		System.out.println("Sending a JMS message:" + personAsString);
 		jmsTemplate.convertAndSend("testQueue",personAsString);
 
-//		Command command1 = new Command("+", 9);
-//		Command command2 = new Command("-", 5);
-//		ObjectMapper objectMapper1 = new ObjectMapper();
-//		String commandAsString1 = objectMapper1.writeValueAsString(command1);
-//		String commandAsString2 = objectMapper1.writeValueAsString(command2);
-//		System.out.println("Sending a JMS command:" + commandAsString1);
-//		System.out.println("Sending a JMS command:" + commandAsString2);
-//		jmsTemplate.convertAndSend("testTopic", commandAsString1);
-//		jmsTemplate.convertAndSend("testTopic", commandAsString2);
+		Command command1 = new Command("+", 7);
+		Command command2 = new Command("+", 8);
+		ObjectMapper objectMapper1 = new ObjectMapper();
+		String commandAsString1 = objectMapper1.writeValueAsString(command1);
+		String commandAsString2 = objectMapper1.writeValueAsString(command2);
+		System.out.println("Sending a JMS command:" + commandAsString1);
+		System.out.println("Sending a JMS command:" + commandAsString2);
+		jmsTemplate.convertAndSend("testTopic", commandAsString1);
+		jmsTemplate.convertAndSend("testTopic", commandAsString2);
 
 
 	}

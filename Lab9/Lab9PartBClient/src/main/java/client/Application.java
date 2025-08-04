@@ -24,7 +24,7 @@ public class Application implements CommandLineRunner {
 		bankGateway.deposit(1263862, 529);
 		bankGateway.withdrawEuros(1263862, 230);
 		bankGateway.deposit(4253892, 12450);
-		bankGateway.depositEuros(4253892, 10000);
+		bankGateway.depositEuros(4253892, 9999);
 		bankGateway.transferFunds(4253892, 1263862, 100, "payment of invoice 10232");
 
 		Collection<AccountDTO> accountlist = bankGateway.getAllAccounts();

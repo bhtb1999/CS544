@@ -9,7 +9,7 @@ import java.io.IOException;
 @Component
 public class CommandListener {
     private int total = 0;
-//    @JmsListener(destination = "testTopic")
+    @JmsListener(destination = "testTopic")
     public void receiveCommand(final String commandAsString) {
         ObjectMapper objectMapper = new ObjectMapper();
         try {

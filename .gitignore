@@ -4,3 +4,12 @@
 # General
 .AppleDouble
 .LSOverride
+
+
+# Ignore all folders containing "solution" (case variations)
+*[Ss]olution*/
+*[Ss]olutions*/
+
+*.zip
+
+*Old*/

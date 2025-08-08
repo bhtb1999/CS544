@@ -1,0 +1,6 @@
+package toolCalling.wallet;
+
+import java.util.List;
+
+public record WalletResponse(List<Stock> shares) {
+}

@@ -1,0 +1,12 @@
+January, $45.000
+February, $35.000
+March, $12.000
+April, $18.000
+May, $41.000
+June, $57.000
+July, $33.000
+August, $18.000
+September, $77.000
+October, $89.000
+November, $76.000
+December, $92.000

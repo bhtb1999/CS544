@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a6e5acc-0991-4057-9058-f7d90205c93c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson+14+demo+code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson+14+demo+code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson+14+demo+code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson+14+demo+code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/Lab12PartA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/Lab12PartA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/Lab12PartA/src/main/java/myapplication/security/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/Lab12PartA/src/main/java/myapplication/security/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/Lab12PartA/target/classes/myapplication/security/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/Lab12PartD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/Lab12PartD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab12/Lab12PartE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab12/Lab12PartE/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vUibZRTgyKYfjwlJBAOiUAw6aA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.SimplePromptApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SimplePromptApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/baobui/Daily/EA/CS544/Lab14/chatPrompt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SpringAI\chatPrompt\src\main\java\simpleprompt3" />
+      <recent name="C:\SpringAI\" />
+      <recent name="C:\SpringAI\chatPrompt\src\main\java\simpleprompt4" />
+      <recent name="C:\SpringAI\chatPrompt\src\main\java\simpleprompt2" />
+      <recent name="C:\SpringAI\chatPrompt\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SimplePromptApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleprompt.SimplePromptApplication" />
+      <module name="simplePrompt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleprompt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prompt.SimplePromptApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prompt.SimplePromptApplication" />
+      <module name="simplePrompt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prompt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simpleprompt2.SimplePromptApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleprompt2.SimplePromptApplication" />
+      <module name="simplePrompt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleprompt2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simpleprompt4.SimplePromptApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleprompt4.SimplePromptApplication" />
+      <module name="simplePrompt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleprompt4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimplePromptApplication" />
+        <item itemvalue="Application.prompt.SimplePromptApplication" />
+        <item itemvalue="Application.simpleprompt4.SimplePromptApplication" />
+        <item itemvalue="Application.simpleprompt2.SimplePromptApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a6e5acc-0991-4057-9058-f7d90205c93c" name="Changes" comment="" />
+      <created>1744206126435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744206126435</updated>
+      <workItem from="1754592220000" duration="1375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
